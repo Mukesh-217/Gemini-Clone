@@ -77,9 +77,9 @@ To run this project locally, follow these steps:
 - Make sure your `package.json` file includes the necessary scripts, such as:
   ```json
   "scripts": {
-    "start": "vite", // or "webpack serve", etc.
-    "build": "vite build", // or "webpack build", etc.
-    "dev": "vite dev" // or any other development command
+    "start": "vite", 
+    "build": "vite build", 
+    "dev": "vite dev" 
   }
   ```
 
@@ -130,5 +130,3 @@ If you have any questions, suggestions, or feedback, feel free to reach out:
 - **Project Link**: [Gemini Clone](https://mukesh-217.github.io/Gemini-Clone/)
 
 ---
-
-Feel free to customize this template to better suit your project. Adding visuals like screenshots, GIFs, or badges (e.g., for build status or license) can make your `README` even more engaging!
