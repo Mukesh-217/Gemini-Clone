@@ -2,9 +2,6 @@
 
 Welcome to **Gemini Clone**, a project that replicates the functionality and design of the Gemini platform. This project is hosted on GitHub and is open for contributions, feedback, and improvements.
 
-![Project Screenshot](https://via.placeholder.com/800x400)  
-*Replace this with a screenshot of your project.*
-
 ---
 
 ## Table of Contents
